@@ -1,0 +1,16 @@
+Problem 1(a)
+   Behaviors 1,4, and 8 are acceptable
+Problem 1(b)
+   We can use any compiler or IDE, as long as it works with g++ in  the virtual machine
+Problem 1(c)
+   Number 2 is the late submission policy
+Problem 1(d)
+   Number 2 is what should be done after pushing code to github
+   
+Problem 2(a)
+   Interfaces 1 and 3 are accepted and supported
+Problem 2(b)
+   1. "git add hw1q2b.cpp"
+   2. "git log/p/3"
+Problem 2(c)
+   git will add the files to the repository history
